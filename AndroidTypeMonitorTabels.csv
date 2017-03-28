@@ -1,0 +1,5 @@
+id,MonitorType,MonitorTable
+1,0,MonitorPivotAgent
+2,1,MonitorPivotCampaign
+3,2,MonitorPivotQueue
+4,3,MonitorPivotVruLine

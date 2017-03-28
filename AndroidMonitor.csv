@@ -1,0 +1,37 @@
+id,ColumName,ColumDescreption,MonitorType,ShowInGraph
+1,AgentLoginName,שם נציג,0,True
+2,MonAgentState,מצב נציג,0,False
+3,MonAgentReadyDuration,זמן נציג ב Ready,0,True
+4,MonAgentDurationOfCalls,זמן נציג בשיחה,0,True
+5,MonAgentTotalMakeCallDuration,סה"כ זמן שיחות יוצאות,0,False
+6,MonAgentTotalProxyCallDuration,סה"כ זמן שיחות פרוקסי,0,False
+7,MonAgentTotalCallbackCallDuration,סה"כ  זמן שיחות קלבק,0,False
+8,CampaignName,שם קמפיין,1,True
+9,CamNumberOfInboundCalls,מספר שיחות נכנסות,1,True
+10,CamInbCallsInQ,מספר שיחות בתור,1,True
+11,CamAgentNumberOfCalls,מספר שיחות שהועברו לנציג,1,True
+12,CamInboundDurationOfCalls,משך זמן כולל של השיחות,1,False
+13,CamNumberOfCompletedInIVRCalls,מספר שיחות שהסתיימו ב- IVR,1,False
+14,CamInbAverageWaitTime,זמן המתנה ממוצע,1,False
+15,MonitorPivotCampaign,,campaign,False
+16,TimeStamp,משך הזמן,2,False
+17,CampaignName,שם קמפיין,2,False
+18,InteractionType,סוג אינטרקציה,2,False
+19,timeinqueue,זמן בתור,2,True
+20,QueueLocation,מיקום בתור,2,True
+21,OnlineQueuePosition,מיקום בתור שיחות נכנסות,2,True
+22,CustomerID,מספר זהות,2,True
+23,MonitorPivotQueue,,Queue,False
+24,VruLineID,מספר קו,3,True
+25,ServerName,שם שרת,3,True
+26,MonLineState,מצב הקו,3,True
+27,MonLineCallType,סוג שיחה,3,False
+28,MonLineCallsNum,מספר שיחות נכנסות לקו,3,True
+29,MonLineReadyDuration,זמן פנוי של הקו ,3,True
+30,MonLineActiveDuration,זמן פעיל של הקו,3,True
+31,MonitorPivotVruLine,,VruLine,False
+32,CampaignName,שם קמפיין,1,True
+33,TimeStamp,משך הזמן,2,True
+34,CampaignName,שם קמפיין,6,True
+35,VruLineID,מספר קו,3,True
+36,AgentLoginName,שם נציג,0,True
